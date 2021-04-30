@@ -1,0 +1,1 @@
+../../firmware/submodules/lsst-pwr-ctrl-core/python/updateFpgaProm.py
